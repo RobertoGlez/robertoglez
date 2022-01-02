@@ -1,6 +1,8 @@
 ### Hi there, I'm Roberto - Fullstack Web Developer
 
-## I'm Developer
+## I'm Web Developer
+
+I am a web developer with more than 5 years of experience mainly in node for backend but with knowledge in different types of tools, I like to learn new technologies to broaden my horizons
 
 - 🔭 I’m currently working on NodeJS services
 - 🌱 I’m currently learning GraphQL, Serverless and Docker
